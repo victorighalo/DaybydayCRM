@@ -71,7 +71,7 @@ return [
             'cache' => [
                 'store' => 'redis',
                 'expire' => 600,
-                'prefix' => 'daybyday-storage',
+                'prefix' => 'necessitudo-storage',
             ],
         ],
 

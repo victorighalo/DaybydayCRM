@@ -9,11 +9,11 @@
                             {!! csrf_field() !!}
 
                             @if(isDemo()) 
-                            <div class="alert alert-info">
+                            <!-- <div class="alert alert-info">
                                 <strong>Demo login info</strong> 
                                 <p>Email: demo@daybydaycrm.com</p>
                                 <p>Password: Daybydaycrm123</p>
-                            </div>
+                            </div> -->
                             @endif
                             <div class="form-group{{ $errors->has('email') ? ' has-error' : '' }}">
                             <div class="inner-addon right-addon">

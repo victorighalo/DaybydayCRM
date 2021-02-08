@@ -72,7 +72,7 @@ $style = [
                     <tr>
                         <td style="{{ $style['email-masthead'] }}">
                             <a style="{{ $fontFamily }} {{ $style['email-masthead_name'] }}" href="{{ url('/') }}" target="_blank">
-                                <img src="https://app.daybydaycrm.com/images/daybyday-logo.png" width="500px"/>
+                                <img src="" width="500px"/>
                             </a>
                         </td>
                     </tr>
