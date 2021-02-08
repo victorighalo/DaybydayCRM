@@ -148,6 +148,24 @@ class Country
                     ]
 
                 ]),
+                "NG" => new Country("SE", [
+                    "displayValue" => "Nigeria",
+                    "currencyCode" => "NGN",
+                    "language" => "English",
+                    "phoneCode" => "+234",
+                    "format" => [
+                        "frontendDate" => "dd/mm/yyyy",
+                        "frontendTime" => "HH:i",
+                        "momentjsDayAndDateWithText" => "ddd D MMMM",
+                        "momentJsTime" => "HH:mm",
+                        "carbonDate" => "d/m/Y",
+                        "carbonTime" => "H:i",
+                        "carbonFullDateWithText" => "d, F Y H:i",
+                        "carbonDateWithText" => "d, F Y"
+
+                    ]
+
+                ]),
                 "GB"=> new Country("GB", [
                     "displayValue" => "United Kingdom",
                     "currencyCode" => "EUR",
