@@ -38,7 +38,7 @@
                         {
                             element: "#myNavmenu",
                             title: "{{trans("Navigation")}}",
-                            content: "{{trans("This is your primary navigation bar, which you can use to get around Daybyday CRM")}}"
+                            content: "{{trans("This is your primary navigation bar, which you can use to get around Necessitudo CRM")}}"
                         }
                     ]
                 });
